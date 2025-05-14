@@ -147,27 +147,4 @@ Golpe Duplo
 
 ## Exemplo de saída no console:
 
-```bash
-=== STATUS INICIAL ===
-Thorgal - HP: 150 | Ataque: 20
-Merlino - HP: 100 | Ataque: 25
-Legolis - HP: 120 | Ataque: 18
-
-=== COMBATE ===
-Thorgal ataca com espada causando 20 de dano.
-Merlino sofre 20 de dano. HP atual: 80
-Merlino lança Bola de Fogo! Causa 25 de dano em todos os inimigos.
-Legolis sofre 25 de dano. HP atual: 95
-Thorgal sofre 25 de dano. HP atual: 125
-Legolis usa Chuva de Flechas! Ataca 3 vezes.
-→ Ataque 1: causa 18 de dano.
-→ Ataque 2: causa 18 de dano.
-→ Ataque 3: causa 18 de dano.
-Dano total causado: 54
-Thorgal usa Golpe Duplo! Causa 40 de dano em Merlino.
-
-=== STATUS FINAL ===
-Thorgal - HP: 125 | Ataque: 20
-Merlino - HP: 40 | Ataque: 25
-Legolis - HP: 95 | Ataque: 18
-
+<pre> ```bash === STATUS INICIAL === Thorgal - HP: 150 | Ataque: 20 Merlino - HP: 100 | Ataque: 25 Legolis - HP: 120 | Ataque: 18 === COMBATE === Thorgal ataca com espada causando 20 de dano. Merlino sofre 20 de dano. HP atual: 80 Merlino lança Bola de Fogo! Causa 25 de dano em todos os inimigos. Legolis sofre 25 de dano. HP atual: 95 Thorgal sofre 25 de dano. HP atual: 125 Legolis usa Chuva de Flechas! Ataca 3 vezes. → Ataque 1: causa 18 de dano. → Ataque 2: causa 18 de dano. → Ataque 3: causa 18 de dano. Dano total causado: 54 Thorgal usa Golpe Duplo! Causa 40 de dano em Merlino. === STATUS FINAL === Thorgal - HP: 125 | Ataque: 20 Merlino - HP: 40 | Ataque: 25 Legolis - HP: 95 | Ataque: 18 ``` </pre>
