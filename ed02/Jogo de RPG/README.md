@@ -88,7 +88,7 @@ Você precisa ter instalado:
 
 **1. Clone o repositório:**
 
-    ```bash
+    ``` bash
     git clone https://github.com/SchusterAluizio/programacao-oo.git
     ```
     
