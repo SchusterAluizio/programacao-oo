@@ -101,9 +101,7 @@ git clone https://github.com/SchusterAluizio/programacao-oo.git
 
 2. **Abra o IntelliJ IDEA:**
 
----
-
-3. Vá no menu: File > Open...
+Vá no menu: File > Open...
 
 **Selecione a pasta raiz do projeto:**
 
@@ -111,23 +109,25 @@ programaca-oo
 
 ---
 
-4. **Espere o IntelliJ carregar o projeto**
+3. **Espere o IntelliJ carregar o projeto**
 
-No painel lateral esquerdo, abra o diretório ed02
+No painel lateral esquerdo, abra o diretório `ed02`
 
-Localize e abra o arquivo Main.java
+Localize e abra o arquivo `Main.java`
 
-Clique com o botão direito no método main
+Clique com o botão direito no método `main`
 
 Escolha:
 
+```bash
 Run 'Main.main()'
+```
 
 ---
 
 ## O que o projeto executa
 
-Ao rodar a classe Main, o seguinte fluxo ocorre:
+Ao rodar a classe `Main`, o seguinte fluxo ocorre:
 
 1. **Cria três contas bancárias:**
 
@@ -159,6 +159,8 @@ Transferência de R$300 da conta salário para a corrente
 
 ## Exemplo de saída no console:
 
+```bash
+
 ========== INÍCIO DAS OPERAÇÕES ==========
 
 [Depósito] Alice deposita R$200,00
@@ -181,6 +183,8 @@ Conta salário de Carlos não recebe juros. Saldo permanece: R$900.00
 [Conta Corrente] Cliente: Alice | Saldo: R$1501.50
 [Conta Poupança] Cliente: Bob | Saldo: R$1401.12
 [Conta Salário] Cliente: Carlos | Saldo: R$900.00
+
+```
 
 
 
