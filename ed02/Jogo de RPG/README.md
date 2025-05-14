@@ -145,7 +145,8 @@ Execute
 
 ## Exemplo de saída no console:
 
-bash ```
+``` bash
+
 === STATUS INICIAL ===
 Thorgal - HP: 150 | Ataque: 20
 Merlino - HP: 100 | Ataque: 25
