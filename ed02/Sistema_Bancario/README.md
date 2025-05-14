@@ -88,22 +88,101 @@ Você precisa ter instalado:
 - [IntelliJ IDEA](https://www.jetbrains.com/idea/) ou outra IDE
 - Git (opcional, para clonar o repositório)
 
+---
+
 ### Usando o IntelliJ IDEA (recomendado)
 
 1. **Clone o repositório:**
 ```bash
 git clone https://github.com/SchusterAluizio/programacao-oo.git
 
+---
+
 2. **Abra o IntelliJ IDEA:**
 
-Vá em File > Open...
+---
 
-Selecione a pasta programacao-oo
+3. Vá no menu: File > Open...
 
-3. **Abra o diretório ed02**
+**Selecione a pasta raiz do projeto:**
 
-4. **Execute o programa:**
+programaca-oo
 
-Clique com o botão direito sobre Main.java
+---
 
-Escolha Run 'Main.main()'
+4. **Espere o IntelliJ carregar o projeto**
+
+No painel lateral esquerdo, abra o diretório ed02
+
+Localize e abra o arquivo Main.java
+
+Clique com o botão direito no método main
+
+Escolha:
+
+Run 'Main.main()'
+
+---
+
+## O que o projeto executa
+
+Ao rodar a classe Main, o seguinte fluxo ocorre:
+
+1. **Cria três contas bancárias:**
+
+Corrente (Alice)
+
+Poupança (Bob)
+
+Salário (Carlos)
+
+2. **Realiza:**
+
+Depósito de R$200 na conta corrente
+
+Saque de R$100 da conta poupança
+
+Transferência de R$300 da conta salário para a corrente
+
+3. **Aplica juros diários conforme o tipo da conta:**
+
+0.1% na corrente
+
+0.08% na poupança
+
+0% na salário
+
+4. **Exibe extratos com cliente, tipo da conta e saldo atualizado**
+
+---
+
+## Exemplo de saída no console:
+
+========== INÍCIO DAS OPERAÇÕES ==========
+
+[Depósito] Alice deposita R$200,00
+Saldo atual de Alice: R$1200.00
+
+[Saque] Bob realiza saque de R$100,00
+Saldo atual de Bob: R$1400.00
+
+[Transferência] Carlos transfere R$300,00 para Alice
+Saldo atual de Carlos: R$900.00
+Saldo atual de Alice após receber: R$1500.00
+
+[Juros] Aplicando juros diários:
+Juros 0.1% aplicados à conta de Alice. Novo saldo: R$1501.50
+Juros 0.08% aplicados à conta de Bob. Novo saldo: R$1401.12
+Conta salário de Carlos não recebe juros. Saldo permanece: R$900.00
+
+========== EXTRATOS FINAIS ==========
+
+[Conta Corrente] Cliente: Alice | Saldo: R$1501.50
+[Conta Poupança] Cliente: Bob | Saldo: R$1401.12
+[Conta Salário] Cliente: Carlos | Saldo: R$900.00
+
+
+
+
+
+
