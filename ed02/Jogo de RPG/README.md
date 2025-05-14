@@ -88,9 +88,10 @@ Você precisa ter instalado:
 
 **1. Clone o repositório:**
 
-    ```bash
-    git clone https://github.com/SchusterAluizio/programacao-oo.git
-    ```
+```bash
+git clone https://github.com/SchusterAluizio/programacao-oo.git
+```
+
     
 **2. Abra o IntelliJ IDEA**
 
