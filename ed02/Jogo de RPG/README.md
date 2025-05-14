@@ -92,12 +92,11 @@ Você precisa ter instalado:
 git clone https://github.com/SchusterAluizio/programacao-oo.git
 ```
 
-    
 **2. Abra o IntelliJ IDEA**
 
-    Va em:
+Va em:
 
-    File > Open
+File > Open
 
 Selecione a pasta raiz do projeto:
 
@@ -121,27 +120,27 @@ Execute
 
 **1. Ao rodar a classe Main, o seguinte acontece:**
 
-    Cria 3 personagens:
+Cria 3 personagens:
 
-    `Thorgal` (Guerreiro)
+`Thorgal` (Guerreiro)
 
-    `Merlino` (Mago)
+`Merlino` (Mago)
 
-    `Legolis` (Arqueiro)
+`Legolis` (Arqueiro)
 
 **2. Simula:**
 
-    Ataques físicos e mágicos
+Ataques físicos e mágicos
 
-    Defesas (com ou sem redução)
+Defesas (com ou sem redução)
 
-    Uso de habilidades especiais
+Uso de habilidades especiais
 
-        Golpe Duplo
+Golpe Duplo
 
-        Bola de Fogo
+  Bola de Fogo
 
-        Chuva de Flechas
+  Chuva de Flechas
 
 **3. Mostra o status final com o HP atualizado após o combate**
 
