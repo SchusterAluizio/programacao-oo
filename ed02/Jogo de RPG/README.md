@@ -147,7 +147,7 @@ Execute
 
 ## Exemplo de saída no console:
 
-``` bash
+<pre> ``` bash
 
 === STATUS INICIAL ===
 Thorgal - HP: 150 | Ataque: 20
@@ -172,4 +172,4 @@ Thorgal - HP: 125 | Ataque: 20
 Merlino - HP: 40 | Ataque: 25
 Legolis - HP: 95 | Ataque: 18
 
-```
+``` </pre>
