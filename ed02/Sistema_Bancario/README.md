@@ -94,7 +94,7 @@ Você precisa ter instalado:
 
 1. **Clone o repositório:**
 ```bash
-git clone https://github.com/SchusterAluizio/programacao-oo.git
+git clone https://github.com/SchusterAluizio/programacao-oo.git ```
 
 ---
 
