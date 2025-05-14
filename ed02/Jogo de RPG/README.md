@@ -86,15 +86,15 @@ Você precisa ter instalado:
 
 ### Usando o IntelliJ IDEA (recomendado)
 
-1. **Clone o repositório:**
-```bash
-git clone https://github.com/SchusterAluizio/programacao-oo.git
-```
-2. **Abra o IntelliJ IDEA**
+**1. Clone o repositório:**
+    ```bash
+    git clone https://github.com/SchusterAluizio/programacao-oo.git
+    ```
+**2. Abra o IntelliJ IDEA**
 
-Va em:
+    Va em:
 
-File > Open
+    File > Open
 
 Selecione a pasta raiz do projeto:
 
@@ -108,42 +108,42 @@ Execute
 
 ---
 
-Clique com o botão direito sobre o método `main`
+**Clique com o botão direito sobre o método `main`**
 
-Selecione: `Run 'Main.main()'`
+**Selecione: `Run 'Main.main()'`**
 
 ---
 
-##O que o projeto executa
+## O que o projeto executa
 
-1. **Ao rodar a classe Main, o seguinte acontece:**
+**1. Ao rodar a classe Main, o seguinte acontece:**
 
-Cria 3 personagens:
+    Cria 3 personagens:
 
-`Thorgal` (Guerreiro)
+    `Thorgal` (Guerreiro)
 
-`Merlino` (Mago)
+    `Merlino` (Mago)
 
-`Legolis` (Arqueiro)
+    `Legolis` (Arqueiro)
 
-2. **Simula:**
+**2. Simula:**
 
-Ataques físicos e mágicos
+    Ataques físicos e mágicos
 
-Defesas (com ou sem redução)
+    Defesas (com ou sem redução)
 
-Uso de habilidades especiais
+    Uso de habilidades especiais
 
-    Golpe Duplo
+        Golpe Duplo
 
-    Bola de Fogo
+        Bola de Fogo
 
-    Chuva de Flechas
+        Chuva de Flechas
 
-3. **Mostra o status final com o HP atualizado após o combate**
+**3. Mostra o status final com o HP atualizado após o combate**
 
 
-##Exemplo de saída no console:
+## Exemplo de saída no console:
 
 bash ```
 === STATUS INICIAL ===
